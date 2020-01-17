@@ -1,19 +1,4 @@
-Jupyter Notebook
-Untitled
-Last Checkpoint: 22 minutes ago
-(unsaved changes)
-Current Kernel Logo
-Python 3 
-File
-Edit
-View
-Insert
-Cell
-Kernel
-Widgets
-Help
 
-fy
 # Human Activity Recognition using Distributed Computing
 ​
 ## Technologies used:
